@@ -3,7 +3,6 @@ This provides an API for obtaining basic information about all regions, 36 state
 
 
 # API Routes
-- BASE_URL: https://nigerian-states-info.herokuapp.com
 * /api/v1/regions - Returns information about Nigerian regions
 * /api/v1/states - Returns information about all Nigerian states
 * /api/v1/states/:name - Returns information about the specified state
